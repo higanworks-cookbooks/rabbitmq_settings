@@ -1,0 +1,9 @@
+{
+  "id": "vhosts",
+  "vhosts": {
+    "/one": "add",
+    "/two": "delete",
+    "/four": "add"
+  }
+}
+

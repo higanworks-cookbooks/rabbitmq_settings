@@ -1,0 +1,5 @@
+maintainer       "HiganWorks LLC"
+maintainer_email "sawanoboriyu@higanworks.com"
+license          "MIT"
+description      "This cookbook is used with test-kitchin to test the parent,rabbitmq_settings cookbook."
+version          "0.1.0"

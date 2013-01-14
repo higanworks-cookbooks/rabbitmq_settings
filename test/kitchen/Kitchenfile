@@ -1,0 +1,4 @@
+cookbook "rabbitmq_settings" do
+  configuration "from_databag"
+
+end

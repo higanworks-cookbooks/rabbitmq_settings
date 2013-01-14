@@ -1,0 +1,24 @@
+{
+  "id" : "users",
+  "users" : {
+    "user_one" : {
+      "password" : "pass",
+      "action" : "add",
+      "permissions" : {
+         "/one" : "\\\".*\\\" \\\".*\\\" \\\".*\\\"",
+         "/four" : "\\\".*\\\" \\\".*\\\" \\\".*\\\""
+      }        
+    },
+    "user_two" : {
+      "action" : "delete"
+      },
+    "user_three" : {
+      "password" : "pass_three",
+      "action" : "add",
+      "permissions" : {
+         "/one" : null
+      }
+    }
+  }
+}
+
